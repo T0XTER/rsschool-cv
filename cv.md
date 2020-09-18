@@ -24,7 +24,7 @@ Since childhood, I wanted to become a programmer. So after graduating from unive
 - Linux ◾◾◾◽◽
 
 ## Code examples ##
-https://github.com/T0XTER
+Github: [T0XTER](https://github.com/T0XTER)
 
 ## Work experience ##
 No experience
