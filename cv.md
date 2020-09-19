@@ -32,8 +32,8 @@ No experience
 ## Education ##
 - 2014-2018 - The Bohdan Khmelnytsky National University of Cherkasy, Educational-Scientific Institute of Informational and Educational Technologies, Applied mathematics and Informatics department, Applied mathematics specialty;
 - 2019-2020 Frontend+CMS courses at Geekhub.ck.ua;
-- FreeCodeCamp https://www.freecodecamp.org/toxter
-- Coursehunter https://coursehunter.net/course/lavrik-wordpress
+- FreeCodeCamp - [https://www.freecodecamp.org/toxter](https://www.freecodecamp.org/toxter)
+- Coursehunter - [https://coursehunter.net/course/lavrik-wordpress](https://coursehunter.net/course/lavrik-wordpress)
 
 ## English ##
 C2 (Proficient) : reading, listening.
