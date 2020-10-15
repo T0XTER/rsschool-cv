@@ -1,0 +1,37 @@
+body {
+  margin: 0 auto;
+  width: 1200px;
+}
+header {
+  padding-top: 25px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+h2 {
+  border-bottom: 1px solid black;
+}
+.header {
+  display: flex;
+  align-items: center;
+}
+.img-wrap {
+  padding: 25px 25px 0;
+}
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.name {
+
+}
+.hidden {
+  margin: 0;
+  width: 1px;
+  height: 0;
+  overflow: hidden;
+}
+footer {
+  height: 25px;
+}
